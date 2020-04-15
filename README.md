@@ -1,2 +1,4 @@
 # Matrix-LU-Decomposition
-Final project for Applied Linear Algebra; decomposing a matrix
+C++ code to factor matrix by LU decomposition.
+
+To use, compile with g++ and execute. Follow on-screen instructions to enter matrix.
